@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import time
 from telegram import Bot
 
-TOKEN = os.getenv('8069247846:AAHpBMszmk_BscL7PHpPU5ckM4-X_3LBYwM')
+TOKEN = os.getenv('7564718942:AAEU3LyrJqiap03t-sB_3xpa0wpwNLq98uE')
 CHAT_ID = os.getenv('1011874258')
 
 bot = Bot(token=TOKEN)
