@@ -1,4 +1,6 @@
 import os
+print(f"Token from env (repr): {repr(os.getenv('7564718942:AAEU3LyrJqiap03t-sB_3xpa0wpwNLq98uE'))}")
+import os
 import requests
 from bs4 import BeautifulSoup
 import time
